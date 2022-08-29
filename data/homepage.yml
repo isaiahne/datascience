@@ -98,8 +98,8 @@ client_and_work:
   enable_clients: false
 
   works:
-    - title: "National City Bank Case - Segmentation Marketing for a Used Credit Product"
-      description: "This project, coded in R, was developed for Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely product demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
+    - title: "National City Bank Case - Segmentation Marketing for a New Credit Product"
+      description: "This project, coded in R, was developed for Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Presentation"
