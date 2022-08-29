@@ -110,7 +110,7 @@ client_and_work:
       is_even: true
 
     - title: "Forecasting Australian Wine Sales"
-      description: "This 2019 data mining task deployed a Holt-Winters time-series forecast model to determine future wine sales using machine learning. Coding was performed in R and predictive analytics were performed using Machine Learning methods. By examining the code, the reader can reference how I organize and manage data mining tasks."
+      description: "This 2019 data mining task deployed a Holt-Winters time-series forecast model to determine future wine sales using machine learning. Coding was performed in R and predictive analytics were performed using Machine Learning methods. By examining the code, the reader can reference how I organize and merge data mining tasks with business and finance acumen."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
