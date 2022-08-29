@@ -99,7 +99,7 @@ client_and_work:
 
   works:
     - title: "National City Bank Case - Segmentation Marketing for a New Credit Product"
-      description: "This project, coded in R, was developed for Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
+      description: "This project, coded in R, was developed for a Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Presentation"
@@ -109,15 +109,15 @@ client_and_work:
         _2x: "/cv/porfolio-screenshot-1.png"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Forecasting Australian Wine Sales"
+      description: "This 2019 data mining task deployed a Holt-Winters time-series forecast model to determine future wine sales using machine learning. Coding was performed in R and predictive analytics were performed using Machine Learning methods."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        URL: "/cv/NewIsaiahHW07.html"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "/cv/holtwinters.png"
+        _2x: "/cv/holtwinters.png"
       is_even: false
 
     
