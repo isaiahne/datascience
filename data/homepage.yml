@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Isaiah New."
-  subtitle: "Financial Analysis and Applied Data Science"
+  subtitle: "Financial Analyst and Applied Data Scientist"
   description: "Isaiah is a graduate of Columbia University (Bachelor of Economics) and Harvard University (Master of Finance). <p>He began his career at a top-20 U.S. commercial bank and appreciates all things finance and data science!"
   image:
     x: "img/showcase/data-science.gif"
