@@ -1,12 +1,12 @@
 head:
-  title: "Isaiah New's Data Science Portfolio"
+  title: "Matt Dancho's Data Science Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Isaiah New."
-  subtitle: "Financial Analyst and Aspiring Data Scientist"
-  description: "Isaiah is a graduate of Columbia University (Bachelor of Economics) and Harvard University (Master of Finance). <p>He began his career at a top-20 Fortune 500 commercial bank and appreciates all things finance and data science!"
+  title: "Hello, I’m Matt Dancho."
+  subtitle: "Data Scientist"
+  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -16,16 +16,39 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Isaiah"
-    URL: "mailto:isaiahnew42@gmail.com"
+    btnText: "Contact Matt"
+    URL: "mailto:your-email@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/isaiahnew"
+      URL: "https://www.linkedin.com"
 
     - icon: "github"
-      URL: "https://github.com/isaiahne/"
+      URL: "https://github.com"
 
+    - icon: "twitter"
+      URL: "https://twitter.com"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com"
+
+    - icon: "behance"
+      URL: "https://www.behance.net"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -33,60 +56,66 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I enjoy finance, data and numbers.</strong> My passion is helping people. But, when I'm not analyzing a financial statement, benchmarking KPIs or fine-tuning a machine learning model, I enjoy spending time with family and friends. 
+    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    or building software, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
-    <strong>My new area of focus</strong> is applying data science to business and financial planning. 
-    I strive to create value for companies by understanding the financials and using data to deliver solutions. 
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/isaiahnew"
+    URL: "https://www.linkedin.com"
   image:
-    x: "img/who-i-am/isaiah.jpeg"
-    _2x: "img/who-i-am/isaiah.jpeg"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Years of experience working with top organizations in finance and data management. Most recently, I completed an advanced degree in finance at Harvard, where I designed & developed data science products in an academic environment to help businesses increase profitability and improve customer experience."
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/isaiahnew"
+    URL: "https://www.linkedin.com/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/cv/resume-matt.pdf"
 
   items:
-    - title: "Graduate Student"
-      company: "Harvard University"
-      duration: "May 2022"
+    - title: "Director of Product Engineering & Market Development"
+      company: "Bonney Forge"
+      duration: "Jan 2017 - Aug 2018"
 
-    - title: "Corporate Analyst - FP&A"
-      company: "M&T Bank Corporation"
-      duration: "July 2017 - June 2018"
+    - title: "Manager of Sales Engineering"
+      company: "Bonney Forge"
+      duration: "Mar 2014 - Jan 2017"
 
-    - title: "Research Associate"
-      company: "Institute for Social and Economic Research and Policy"
-      duration: "June 2015 - Aug 2015"
+    - title: "Manager of Product Engineering"
+      company: "Bonney Forge"
+      duration: "Nov 2011 - Mar 2014"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Harvard University"
-      year: "2022"
-      degree: "Master of Liberal Arts, Finance"
+    - university: "Penn State University"
+      year: "2014-2015"
+      degree: "Master of Business Administration (MBA)"
+
+    - university: "University of Pittsburgh"
+      year: "2008-2010"
+      degree: "Master of Industrial Engineering"
       
-    - university: "Columbia University"
-      year: "2016"
-      degree: "Bachelor of Arts, Economics"
+    - university: "Penn State University"
+      year: "2002-2006"
+      degree: "Bachelor of Mechanical Engineering"
 
 
 
@@ -154,7 +183,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: false
+  enable: true
   title: "Testimonials"
   items:
   
@@ -183,12 +212,12 @@ testimonial:
 
 # contact
 contact:
-  enable: false
-  title: "Contact Isaiah"
+  enable: true
+  title: "Contact Matt"
     
   image:
-    x: "img/who-i-am/screenshot-2.png"
-    _2x: "img/who-i-am/screenshot-2.png"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
     
   button:
     icon: "icon-mail-fill"
