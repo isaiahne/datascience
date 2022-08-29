@@ -52,7 +52,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Years of experience working with top organizations in finance and data management. Most recently, I completed an advanced degree in finance at Harvard, where I designed & developed data science products in an academic environment to help businesses increase profitability and improve customer experience."
+  description: "Years of experience working with top organizations in finance and data management. Most recently, I completed an advanced degree in finance at Harvard, where I designed & developed data science products in an academic environment to help businesses reduce operational costs, increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
