@@ -99,14 +99,14 @@ client_and_work:
 
   works:
     - title: "National City Bank Case - Segmentation Marketing for a Used Credit Product"
-      description: "This presentation, coded in R, was developed for Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely product demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
+      description: "This project, coded in R, was developed for Data Mining course at Harvard and helps a fictional bank identify the top 100 customers of its 4,000 clients who would most likely product demand a used vehicle line of credit product. All coding was performed in R and four Machine Learning models were deployed on the training and test data. A model with 83% target accuracy was confirmed."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Presentation"
-        URL: "/static/Group Case Presentation/Group Case Presentation.pdf"
+        URL: "/cv/Group Case Presentation.pdf"
       image:
-        x: "static/Group Case Presentation/porfolio-screenshot-1.png"
-        _2x: "static/Group Case Presentation/porfolio-screenshot-1.png"
+        x: "/cv/porfolio-screenshot-1.png"
+        _2x: "/cv/porfolio-screenshot-1.png"
       is_even: true
 
     - title: "Product Price Recommendation"
