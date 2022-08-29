@@ -60,7 +60,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://docs.google.com/document/d/e/2PACX-1vRl5pOI9ZAo5RBIl9qA-oqtyOc4ksqIbKw6s0KoANXOD7CZRlYCDH2JlJM_bCHZtQ/pub"
 
   items:
     - title: "Graduate Student"
